@@ -1,0 +1,23 @@
+{
+  "summary": "Today's goals were partially achieved due to unexpected production issues and low energy levels in the afternoon.",
+  "completed_goals": [
+    "Finished client proposal"
+  ],
+  "missed_goals": [
+    "Review all PRs",
+    "Go for a 30-minute walk"
+  ],
+  "insights": [
+    "Unexpected production issues can significantly impact daily goals",
+    "Low energy levels in the afternoon can hinder productivity"
+  ],
+  "lessons_learned": [
+    "Prioritize tasks based on urgency and importance",
+    "Schedule critical tasks during high-energy periods"
+  ],
+  "tomorrow_suggestions": [
+    "Review remaining PRs as a priority task",
+    "Schedule a 30-minute walk in the morning to boost energy levels",
+    "Leave a buffer for unexpected issues and adjust the schedule accordingly"
+  ]
+}
