@@ -1,0 +1,25 @@
+{
+  "actions": [
+    {
+      "action": "Finalize the onboarding checklist",
+      "owner": "Unassigned",
+      "deadline": "Next Friday",
+      "priority": "Medium",
+      "source_context": "Onboarding process"
+    },
+    {
+      "action": "Follow up with the vendor about pricing",
+      "owner": "Unassigned",
+      "deadline": "Not specified",
+      "priority": "Medium",
+      "source_context": "Vendor communication"
+    },
+    {
+      "action": "Prepare a launch email",
+      "owner": "Marketing",
+      "deadline": "Not specified",
+      "priority": "Medium",
+      "source_context": "Launch preparation"
+    }
+  ]
+}
