@@ -19,11 +19,10 @@
 7. [Usage Guide](#-usage-guide)
 8. [Project Folder Structure](#-project-folder-structure)
 9. [API Documentation](#-api-documentation)
-10. [Screenshots / Demo](#-screenshots--demo)
-11. [Future Enhancements](#-future-enhancements)
-12. [Contribution Guidelines](#-contribution-guidelines)
-13. [License](#-license)
-14. [Author](#-author)
+10. [Future Enhancements](#-future-enhancements)
+11. [Contribution Guidelines](#-contribution-guidelines)
+12. [License](#-license)
+13. [Author](#-author)
 
 ---
 
@@ -208,25 +207,6 @@ This project does **not** expose a public HTTP API. It is a CLI tool that intern
 The expected response is a JSON string matching the schema shown in the [Architecture / Workflow](#-architecture--workflow) section.
 
 If you want to reuse the core logic programmatically, you can import and call `extract_actions(notes_text)` from `agent.py` in your own Python code.
-
----
-
-## 🖼 Screenshots / Demo
-
-Below is a sample run of the Note-to-Action Item Agent (the same as the uploaded screenshot from VS Code):
-
-![Note-to-Action Agent – Sample Run](docs/note-to-action-agent-sample.png)
-
-> Save your screenshot as `docs/note-to-action-agent-sample.png` so it renders correctly on GitHub.
-
-- 🧪 **Sample run:**
-   - Input: `notes.txt` with meeting discussion
-   - Output: `actions.json` + `actions.txt` printed in the terminal
-
-You can also link to an external demo:
-
-- 🎥 Loom / YouTube: `https://your-demo-link-here`  
-- 🚀 Live integration (if any): `https://your-live-link-here`
 
 ---
 
