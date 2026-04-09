@@ -253,7 +253,7 @@ You can update this section if you prefer a different license.
 
 ## 👤 Author
 
-- **Name:** Sree
+- **Name:** Anya Sree
 - **GitHub:** [https://github.com/Sree-8639](https://github.com/Sree-8639)
 - **Email:** 23A81A6193@sves.org.in
 
