@@ -59,7 +59,8 @@ Code Review,2026-03-01 10:30,2026-03-01 11:30,medium,work,yes
 ### Field Description
 
 | Field | Description |
-|------|-------------| title | Name of the event |
+|------|-------------| 
+|title | Name of the event |
 | start_time | Start datetime (YYYY-MM-DD HH:MM) |
 | end_time | End datetime |
 | priority | low / medium / high |
