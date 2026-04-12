@@ -1,0 +1,38 @@
+{
+  "meeting_title": "Q1 Product Planning",
+  "objective": "Decide priorities for Q1 roadmap and align teams",
+  "total_duration_minutes": 60,
+  "agenda": [
+    {
+      "topic": "Review Current Roadmap and Gather Feedback",
+      "time_minutes": 10,
+      "owner": "Product",
+      "outcome": "Understand current team perspectives on Q1 roadmap"
+    },
+    {
+      "topic": "Marketing Input and Customer Feedback",
+      "time_minutes": 15,
+      "owner": "Marketing",
+      "outcome": "Understand customer needs and market trends"
+    },
+    {
+      "topic": "Engineering Input and Technical Feasibility",
+      "time_minutes": 15,
+      "owner": "Engineering",
+      "outcome": "Assess technical feasibility of proposed features"
+    },
+    {
+      "topic": "Prioritization and Decision-Making",
+      "time_minutes": 10,
+      "owner": "Product",
+      "outcome": "Decide top 3 features for Q1 roadmap",
+      "decision_point": true
+    },
+    {
+      "topic": "Next Steps and Action Items",
+      "time_minutes": 10,
+      "owner": "Product",
+      "outcome": "Assign action items and set deadlines"
+    }
+  ]
+}

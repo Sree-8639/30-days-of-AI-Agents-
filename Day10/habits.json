@@ -1,0 +1,25 @@
+{
+  "Morning walk": {
+    "total_days": 5,
+    "completed_days": 4,
+    "consistency_percent": 80.0,
+    "current_streak": 2,
+    "missed_days": [
+      "2025-03-03"
+    ],
+    "insight": "Strong habit consistency.",
+    "recommendation": "Keep the habit as-is."
+  },
+  "Read 20 pages": {
+    "total_days": 5,
+    "completed_days": 3,
+    "consistency_percent": 60.0,
+    "current_streak": 2,
+    "missed_days": [
+      "2025-03-02",
+      "2025-03-03"
+    ],
+    "insight": "Habit needs reinforcement.",
+    "recommendation": "Reduce difficulty or change timing."
+  }
+}
